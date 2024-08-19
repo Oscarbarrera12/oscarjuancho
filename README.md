@@ -1,7 +1,30 @@
-# oscarjuancho
-desarrollador de software
+# documentacion de python
+## Instalacion
 
-# curso de python
+pasos para instalar python
 
-esta es una pequeña descriccion usando README.SO
+visual studio code
 
+descargar python de la pagina oficial.
+
+instalamos python.exe
+
+damos permisos de administrador
+
+instalamos VSvode.exe
+
+## extensiones a utilizar en vscode
+
+pylance.
+
+python Debung
+ 
+## comprobar python
+
+copia y pega el siguiente codigo
+
+Ade``bash
+  print("hola mundo!");
+`q``
+    
+    
