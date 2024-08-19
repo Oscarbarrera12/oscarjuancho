@@ -1,0 +1,2 @@
+# oscarjuancho
+desarrollador de software
